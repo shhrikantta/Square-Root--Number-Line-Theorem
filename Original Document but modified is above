@@ -1,0 +1,70 @@
+Shrikanta’s Observation
+Since, we use the following inches to measure a particular root on number line. This theorem can be only used for right angle triangle method. By this discovery we can know which root has to get how many units[inches] (The term units are used because after constructing the root on number line we do justification of using Pythagoras Theorem, so in finding AB in that we can use this theorem.) would be needed for a particular root.
+√2 - 1 inch
+
+√3
+
+√4
+
+√5 - 2 inch
+
+√6
+
+√7
+
+√8
+
+√9
+
+√10 - 3 inch
+
+√11
+
+√12
+
+√13
+
+√14
+
+√15
+
+√16 
+
+√17 - 4 inch
+
+√18
+
+√19
+
+√20
+
+√21
+
+√22
+
+√23
+
+√24
+
+√25
+
+√26 - 5 inch
+
+If you notice the total number of integers between the roots where there are inches typed after it,
+First in between the √2 and √5 there are 2 numbers (2 multiplied by 1 = 2).
+Next in between the √5 and √10 there are 4 numbers (2 multiplied by 2 = 4).
+Next in between the √10 and √17 there are 6 numbers (2 multiplied by 3 = 6).
+Next in between the √17 and √26 there are 8 numbers (2 multiplied by 4 = 8).
+
+To calculate the above, we have to use the below formula
+
+To represent a square root sqrt(n) on a number line using the right-angle triangle method, we need to draw a right-angled triangle where one leg has a length of 1 unit and the other leg has a length of sqrt(n) units. The hypotenuse of the triangle can then be used to mark the position of sqrt(n) on the number line.
+Let the length of the hypotenuse be x units. Then by the Pythagorean theorem, we have:
+1^2 + (sqrt(n))^2 = x^2
+Simplifying this equation, we get:
+x = sqrt(1 + (sqrt(n))^2) = sqrt(n+1)
+Therefore, to represent the square root of n on a number line using the right-angle triangle method, we need to take sqrt(n+1) units of length for the hypotenuse of the right-angled triangle.
+
+
+The method you are referring to is known as the geometric construction of the square root of a number, and it has been known since ancient times. It is not attributed to a specific person or mathematician as it has been used by various cultures throughout history. The Pythagorean theorem, which is used in the formula you provided, is also an ancient mathematical theorem attributed to the Greek mathematician Pythagoras. However, the formula you provided is a derivation of the geometric construction method and is not a separate discovery by any mathematician.
+
