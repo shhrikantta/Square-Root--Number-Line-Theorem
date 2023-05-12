@@ -1,4 +1,5 @@
 # mine-theorem-observation
+
 Author: Jilla Shrikanta (14 yrs.)
 
 Abstract: In this paper, we present an observation on the geometric construction and measurement of square roots on a number line using the right-angle triangle method. We show that to represent the square root of n on a number line using this method, we need to take sqrt(n+1) units of length for the hypotenuse of the right-angled triangle. We also provide a theorem that can be used to determine how many units (inches) are needed for a particular root. Furthermore, we show that the number of integers between certain highlighted roots can be calculated using a simple formula. The method we describe is based on the ancient mathematical theorem of Pythagoras and the geometric construction of the square root of a number, which has been used by various cultures throughout history.
